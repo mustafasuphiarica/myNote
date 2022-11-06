@@ -1,0 +1,2 @@
+# myNote
+kendi repom
